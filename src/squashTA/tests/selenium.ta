@@ -1,0 +1,7 @@
+SETUP :
+
+TEST : 
+
+# EXECUTE_SELENIUM2 selenium/src/test WITH MAIN CLASS fr.eql.autom.orangehrm.junit.UserManagementTest
+
+TEARDOWN :
