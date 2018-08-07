@@ -50,7 +50,7 @@
 						<dependency>
 							<groupId>org.seleniumhq.selenium</groupId>
 							<artifactId>selenium-server</artifactId>
-							<version>3.20.0</version>
+							<version>3.20.0</version
 						</dependency>
 				</dependencies>
 				 -->
